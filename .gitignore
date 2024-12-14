@@ -2,3 +2,6 @@
 *.txt
 tools/
 .DS_Store
+2024/.phpunit.cache/test-results
+2024/.phpunit.result.cache
+2024/phpunit.xml.bak
